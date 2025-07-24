@@ -10,11 +10,20 @@ Welcome to the **Quiz Game**, a simple and interactive command-line quiz applica
 
 ## 🧠 Game Description
 
+
+```text
+      ---------- Welcome to Quiz Game ---------
+
+      Please click on 'Enter' to start the Game
+```
+
 - When you run the program, it welcomes you with a stylized header.
 - You'll be prompted to press **Enter** to start the game.
 - The game then displays **10 multiple-choice questions**.
 - For each correct answer, you earn **10 points**.
 - At the end, your total score (out of 100) is shown.
+
+![Quiz Game Screenshot](assets/screenshot1.png)
 
 ---
 
@@ -58,8 +67,10 @@ python quiz_game.py
 
 ```bash
 📁 Quiz-Game/
-├──  📄 Quiz.py     Main Python script
-└──  📄 README.md   Project Documentation ( This file)
+├──  📄 Quiz.py               # Main Python script
+├──  📄 README.md             # Project Documentation ( This file)
+└──  📁 assets/
+      └── 📸 screenshot.png   # Screenshot of the game
 ```
 
 ## 💡Future Improvement
