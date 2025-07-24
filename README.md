@@ -1,15 +1,15 @@
 # 🎮 Quiz Game in Python
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-Free-lightgrey)
-
 Welcome to the **Quiz Game**, a simple and interactive command-line quiz application built using Python. This project is great for beginners learning about conditionals, loops, user input, and list handling in Python.
 
 ---
 
 ## 🧠 Game Description
 
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Free-lightgrey)
 
 ```text
       ---------- Welcome to Quiz Game ---------
@@ -22,8 +22,6 @@ Welcome to the **Quiz Game**, a simple and interactive command-line quiz applica
 - The game then displays **10 multiple-choice questions**.
 - For each correct answer, you earn **10 points**.
 - At the end, your total score (out of 100) is shown.
-
-![Quiz Game Screenshot](assets/Screenshot1.png)
 
 ---
 
@@ -44,9 +42,7 @@ Welcome to the **Quiz Game**, a simple and interactive command-line quiz applica
 3. Open a terminal or command prompt in the file’s directory.
 4. Run the game:
 
-```bash
-python quiz_game.py
-```
+---
 
 ## 🧾 Sample Questions
 
@@ -67,10 +63,8 @@ python quiz_game.py
 
 ```bash
 📁 Quiz-Game/
-├──  📄 Quiz.py               # Main Python script
-├──  📄 README.md             # Project Documentation ( This file)
-└──  📁 assets/
-      └── 📸 screenshot.png   # Screenshot of the game
+├──  📄 Quiz.py         # Main Python script
+└──  📄 README.md       # Project Documentation ( This file)
 ```
 
 ## 💡Future Improvement
