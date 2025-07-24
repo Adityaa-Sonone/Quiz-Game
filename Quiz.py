@@ -4,16 +4,16 @@ print("\n", x)
 print("\n Please click 'Enter' to start the Game \n")
 
 Questions = [
-    ["What is the capital of India ?", "Mumbai", "Kolkata", "Nagpur", "Delhi", 4],
-    ["How many state are there in India ?", "28", "29", "30", "31", 2],
-    ["Who is the 1st President of India ?", "Dr Rajendra Prasad", "Jawaharlal Nehru", "Dr B. R. Ambedkar", "Sardar Vallabhbhai Patel", 1],
-    ["Facebook is developed using ?", "PHP", "Java", "C++", "Python", 1],
-    ["How many countries are there in the world ?", "194", "195", "196", "199", 2],
-    ["What is capital of Japan ?", "Osaka", "Burlin", "Tokyo", "Kyoto", 3],
-    ["Which year did the world war 2 end ?", "1930", "1935", "1940", "1945", 4],
-    ["Which is Biggest continent in the world ?", "Africa", "Asia", "Europe", "Antartica", 2],
-    ["What is the Name of India's 1st satellite ?", "Chandrayan", "Aryabhata", "Mangalyaan", "Aditya L1", 2],
-    ["Python Language was developed by ?", "Guido Van Rossum", "James Gosling", "Bjarne Stroustrup", "Dennis Ritchie", 1]]
+    ["1. What is the capital of India ?", "Mumbai", "Kolkata", "Nagpur", "Delhi", 4],
+    ["2. How many state are there in India ?", "28", "29", "30", "31", 2],
+    ["3. Who is the 1st President of India ?", "Dr Rajendra Prasad", "Jawaharlal Nehru", "Dr B. R. Ambedkar", "Sardar Vallabhbhai Patel", 1],
+    ["4. Facebook is developed using ?", "PHP", "Java", "C++", "Python", 1],
+    ["5. How many countries are there in the world ?", "194", "195", "196", "199", 2],
+    ["6. What is capital of Japan ?", "Osaka", "Burlin", "Tokyo", "Kyoto", 3],
+    ["7. Which year did the world war 2 end ?", "1930", "1935", "1940", "1945", 4],
+    ["8. Which is Biggest continent in the world ?", "Africa", "Asia", "Europe", "Antartica", 2],
+    ["9. What is the Name of India's 1st satellite ?", "Chandrayan", "Aryabhata", "Mangalyaan", "Aditya L1", 2],
+    ["10. Python Language was developed by ?", "Guido Van Rossum", "James Gosling", "Bjarne Stroustrup", "Dennis Ritchie", 1]]
 
 level = 0
 add = input("")
