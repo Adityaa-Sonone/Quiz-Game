@@ -2,14 +2,13 @@
 
 Welcome to the **Quiz Game**, a simple and interactive command-line quiz application built using Python. This project is great for beginners learning about conditionals, loops, user input, and list handling in Python.
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Free-lightgrey)
 ---
 
 ## 🧠 Game Description
 
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-Free-lightgrey)
 
 ```text
       ---------- Welcome to Quiz Game ---------
@@ -51,6 +50,8 @@ Welcome to the **Quiz Game**, a simple and interactive command-line quiz applica
 - Who was the the first President of India ?
 - Python language was developed by ?
 
+---
+
 ## 🧑‍💻 Code Overview
 
 - Question are store in list, where each entry has
@@ -58,6 +59,8 @@ Welcome to the **Quiz Game**, a simple and interactive command-line quiz applica
     - Four options
     - Corrrect option number
 - The program loops through each question, takes input, checks the answer, and update the score.
+
+---
 
 ## 📁 File Structure
 
@@ -67,6 +70,8 @@ Welcome to the **Quiz Game**, a simple and interactive command-line quiz applica
 └──  📄 README.md       # Project Documentation ( This file)
 ```
 
+---
+
 ## 💡Future Improvement
 
 - 🧠 Add difficulty levels (Easy, Medium, Hard)
@@ -75,9 +80,13 @@ Welcome to the **Quiz Game**, a simple and interactive command-line quiz applica
 - 🖥️ Create a GUI version using 'Tkinter' or 'PyQt'
 - 🌐 Web version using Flask or Streamlit
 
+---
+
 ## 📜 License
 
 This project is open-source and free to use  for learning purpose.
+
+---
 
 ## 🙌 Contribute
 If you’d like to add more features or new questions, feel free to fork this repo and make a pull request.
