@@ -1,5 +1,9 @@
 # 🎮 Quiz Game in Python
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Free-lightgrey)
+
 Welcome to the **Quiz Game**, a simple and interactive command-line quiz application built using Python. This project is great for beginners learning about conditionals, loops, user input, and list handling in Python.
 
 ---
@@ -16,10 +20,11 @@ Welcome to the **Quiz Game**, a simple and interactive command-line quiz applica
 
 ## ✅ Features
 
-- 📝 10 pre-loaded general knowledge questions  
+- 🧩 10 General Knowledge Questions  
 - 🎯 Instant feedback on your answer  
-- 🧮 Score calculation  
+- 📊 Score calculated and displayed at the end
 - 🎮 User-friendly terminal interaction  
+- 🐍 100% Pure Python
 
 ---
 
@@ -37,6 +42,7 @@ python quiz_game.py
 ## 🧾 Sample Questions
 
 - What is the capital of India ?
+- How many states are there in India?
 - Who was the the first President of India ?
 - Python language was developed by ?
 
@@ -51,17 +57,22 @@ python quiz_game.py
 ## 📁 File Structure
 
 ```bash
-quiz.py     Main Python script
-README.md   Project Documentation ( This file)
+📁 Quiz-Game/
+├──  📄 Quiz.py     Main Python script
+└──  📄 README.md   Project Documentation ( This file)
 ```
 
 ## 💡Future Improvement
 
-- Add difficulty level (Easy, MEdium & Hard)
-- Add GUI using `tkinter` or `PyQt`
-- Store high score
-- Randomize questions on each run 
+- 🧠 Add difficulty levels (Easy, Medium, Hard)
+- 🔀 Shuffle questions on every game run
+- 💾 Store high scores in a file or database
+- 🖥️ GUI version using Tkinter or PyQt
+- 🌐 Web version using Flask or Streamlit
 
 ## 📜 License
 
 This project is open-source and free to use  for learning purpose.
+
+## 🙌 Contribute
+If you’d like to add more features or new questions, feel free to fork this repo and make a pull request.
