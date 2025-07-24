@@ -23,7 +23,7 @@ Welcome to the **Quiz Game**, a simple and interactive command-line quiz applica
 - For each correct answer, you earn **10 points**.
 - At the end, your total score (out of 100) is shown.
 
-![Quiz Game Screenshot](assets/screenshot1.png)
+![Quiz Game Screenshot](assets/Screenshot1.png)
 
 ---
 
@@ -78,7 +78,7 @@ python quiz_game.py
 - 🧠 Add difficulty levels (Easy, Medium, Hard)
 - 🔀 Shuffle questions on every game run
 - 💾 Store high scores in a file or database
-- 🖥️ GUI version using Tkinter or PyQt
+- 🖥️ Create a GUI version using 'Tkinter' or 'PyQt'
 - 🌐 Web version using Flask or Streamlit
 
 ## 📜 License
