@@ -26,7 +26,7 @@ if add == "":
         reply = int(input("\nPlease Enter your Answer : "))
         if reply == Question[5]:
             print(("\nCorrect Answer \n-----------------------------------"))
-            level += 10
+            score += 10
         else:
             print(f"Wrong Answer,   Correct Answer is {Question[5]} \n-----------------------------------")
     
