@@ -15,7 +15,7 @@ Questions = [
     ["9. What is the Name of India's 1st satellite ?", "Chandrayan", "Aryabhata", "Mangalyaan", "Aditya L1", 2],
     ["10. Python Language was developed by ?", "Guido Van Rossum", "James Gosling", "Bjarne Stroustrup", "Dennis Ritchie", 1]]
 
-level = 0
+score = 0
 add = input("")
 
 if add == "":
@@ -30,7 +30,7 @@ if add == "":
         else:
             print(f"Wrong Answer,   Correct Answer is {Question[5]} \n-----------------------------------")
     
-    print("\nYour Final Score is ", level, "/ 100 \n")
+    print("\nYour Final Score is ", score, "/ 100 \n")
 
 else: 
     print("\n       Your Enter Wrong Key")
